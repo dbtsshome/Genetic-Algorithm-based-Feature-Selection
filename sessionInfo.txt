@@ -1,0 +1,9 @@
+R version 4.4.1 
+
+IMPORTANT BEFORE PUBLIC RELEASE:
+Replace this file with the exact output of sessionInfo() from the R environment used to generate the results.
+The analysis script also writes output/sessionInfo.txt automatically when executed.
+
+Required packages:
+- GA
+- pROC
