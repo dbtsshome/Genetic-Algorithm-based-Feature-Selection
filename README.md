@@ -11,7 +11,7 @@ Clinical disease-activity labels are used during the feature-selection stage thr
 - `sample_annotation.tsv` — synthetic sample labels corresponding to the example feature matrix.
 - `INPUT_DATA.md` — detailed input-data instructions.
 - `sessionInfo.txt` — placeholder to be replaced by the `sessionInfo()` output from the R environment used for the manuscript analysis.
-- `expected_output/` — representative output formats.
+- `output/` — representative output formats.
 
 ## Requirements
 
